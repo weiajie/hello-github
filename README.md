@@ -6,5 +6,7 @@
 
 - [x] 创建仓库
 - [x] 认识仓库主页与 Code 按钮
-- [ ] 分支与 Pull Request
+- [x] 分支与 Pull Request
 - [ ] Issues 使用
+
+> 本行在 feature-readme 分支上添加,将随 PR 合并回 main。
